@@ -7,6 +7,7 @@
 <script>
 import LuckyWheel from './components/luckywheel'
 
+
 export default {
   name: 'app',
   components: {
